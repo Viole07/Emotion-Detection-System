@@ -1,0 +1,6 @@
+data/
+hf_cache/
+temp/
+venv/
+__pycache__/
+*.wav
